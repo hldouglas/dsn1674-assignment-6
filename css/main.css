@@ -60,11 +60,13 @@ p {
 
 header:hover .left{
 	left: -0.5px;
+  top: 10px;
 	transition: all 175ms linear;
 }
 
 header:hover .right{
 	right: -0.4px;
+  top: 10px;
 	transition: all 175ms linear;
 }
 

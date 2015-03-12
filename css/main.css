@@ -1,5 +1,16 @@
-html {
-  background-color: #2B3951;
-  color: #FFF;
+html{
   font-family: 'Contrail One', cursive;
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+	box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+}
+
+header {
+  background-color: #2B3951;
 }

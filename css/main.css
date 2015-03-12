@@ -48,3 +48,12 @@ header {
 	position: relative;
 	top: 57px;
 }
+
+p {
+  background-color: #1A2230;
+	margin: 0;
+	padding: 0.62em;
+	text-align: center;
+	color: white;
+	font-size: 2rem;
+}

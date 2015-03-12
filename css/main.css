@@ -57,3 +57,18 @@ p {
 	color: white;
 	font-size: 2rem;
 }
+
+header:hover .left{
+	left: -0.5px;
+	transition: all 175ms linear;
+}
+
+header:hover .right{
+	right: -0.4px;
+	transition: all 175ms linear;
+}
+
+header:hover .brain{
+	top: 39px;
+	transition: all 200ms linear;
+}
